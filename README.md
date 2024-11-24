@@ -1,6 +1,8 @@
 # EV_Charging_Behavior_Analysis
 
-## Demographic and Socioeconomic Data Table Schema
+## Schema
+
+### Demographic and Socioeconomic Data Table Schema
 
 | Column Name            | Data Type    | Description                                                                                     |
 |------------------------|--------------|-------------------------------------------------------------------------------------------------|
