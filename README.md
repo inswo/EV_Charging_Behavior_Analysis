@@ -6,7 +6,6 @@
 
 | Column Name            | Data Type    | Description                                                                                     |
 |------------------------|--------------|-------------------------------------------------------------------------------------------------|
-| `region_id`            | VARCHAR(50) | Unique identifier for the geographic region (e.g., Census tract, ZIP code, or city name).       |
 | `location_city`        | VARCHAR(100)| Name of the city or locality.                                                                  |
 | `median_income`        | FLOAT       | Median household income in the region (in USD).                                                |
 | `population_density`   | FLOAT       | Number of people per square kilometer.                                                         |
