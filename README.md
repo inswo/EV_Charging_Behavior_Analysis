@@ -2,7 +2,7 @@
 
 ## Schema
 
-### Demographic and Socioeconomic Data Table Schema
+### Demographic and Socioeconomic Data Table
 
 | Column Name            | Data Type    | Description                                                                                     |
 |------------------------|--------------|-------------------------------------------------------------------------------------------------|
