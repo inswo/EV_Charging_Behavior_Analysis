@@ -6,7 +6,7 @@
 
 | Column Name            | Data Type    | Description                                                                                     |
 |------------------------|--------------|-------------------------------------------------------------------------------------------------|
-| `location_city`        | VARCHAR(100)| Name of the city or locality.                                                                  |
+| `location`             | VARCHAR(100)| Name of the city or locality.                                                                  |
 | `median_income`        | FLOAT       | Median household income in the region (in USD).                                                |
 | `population_density`   | FLOAT       | Number of people per square kilometer.                                                         |
 | `vehicle_ownership_rate`| FLOAT      | Percentage of households in the region that own at least one vehicle.                          |
