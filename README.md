@@ -17,4 +17,4 @@
 | `accessibility_index`  | FLOAT       | A score indicating infrastructure accessibility for underserved populations (1–10 scale).       |
 | `region_type`          | VARCHAR(50) | Type of area (e.g., Urban, Suburban, Rural).                                                   |
 
-Source: US Census Bureau, World Bank Open Data
+*Source: US Census Bureau, World Bank Open Data*
