@@ -8,15 +8,15 @@
 |-----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
 | `user_id`                   | VARCHAR(50)       | Unique identifier for each user (e.g., `user_1`).                                               |
 | `vehicle_model`             | VARCHAR(100)      | Specific model of the electric vehicle (e.g., `BMW i3`).                                        |
-| `battery_capacity_kwh`      | FLOAT       | Maximum energy storage of the vehicle's battery in kilowatt-hours (e.g., `108.4630074`).        |
+| `battery_capacity`      | FLOAT       | Maximum energy storage of the vehicle's battery in kilowatt-hours (e.g., `108.4630074`).        |
 | `charging_station_id`       | VARCHAR(50)       | Unique identifier for the charging station used (e.g., `station_391`).                         |
 | `charging_station_location` | VARCHAR(100)      | Geographic location of the charging station (e.g., `Houston`).                                  |
 | `start_time`                | DATETIME          | Timestamp for when the charging session began (e.g., `1/1/24 0:00`).                           |
 | `end_time`                  | DATETIME          | Timestamp for when the charging session ended (e.g., `1/1/24 0:39`).                           |
-| `energy_consumed_kwh`       | FLOAT       | Total energy consumed during the charging session, in kilowatt-hours (e.g., `60.71234573`).     |
-| `charging_duration_hours`   | FLOAT       | Total time taken to charge the vehicle, in hours (e.g., `0.591363425`).                         |
-| `charging_rate_kw`          | FLOAT       | Average power delivery rate during the session, in kilowatts (e.g., `36.38918057`).             |
-| `charging_cost_usd`         | FLOAT       | Total cost of the charging session in US dollars (e.g., `13.08771679`).                         |
+| `energy_consumed`       | FLOAT       | Total energy consumed during the charging session, in kilowatt-hours (e.g., `60.71234573`).     |
+| `charging_duration`   | FLOAT       | Total time taken to charge the vehicle, in hours (e.g., `0.591363425`).                         |
+| `charging_rate`          | FLOAT       | Average power delivery rate during the session, in kilowatts (e.g., `36.38918057`).             |
+| `charging_cost`         | FLOAT       | Total cost of the charging session in US dollars (e.g., `13.08771679`).                         |
 | `time_of_day`               | VARCHAR(50)       | Time segment when charging occurred (e.g., `evening`).                                          |
 | `day_of_week`               | VARCHAR(20)       | Day when the charging occurred (e.g., `tuesday`).                                               |
 | `state_of_charge_start`     | FLOAT       | Battery percentage at the start of charging (e.g., `29.37157598`).                              |
