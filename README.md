@@ -47,3 +47,19 @@
 | `region_type`          | VARCHAR(50) | Type of area (e.g., Urban, Suburban, Rural).                                                   |
 
 *Source: US Census Bureau, World Bank Open Data.*
+
+### U.S. Electricity Prices
+
+| **Column Name**       | **Data Type**      | **Description**                                                                              |
+|------------------------|--------------------|---------------------------------------------------------------------------------------------|
+| `year`                | INTEGER           | The year for the data entry (e.g., `2023`).                                                |
+| `month`               | VARCHAR(20)       | The month for the data entry (e.g., `January`, `February`).                                |
+| `state_description`   | VARCHAR(100)      | The name of the state or region (e.g., `California`, `Texas`).                             |
+| `sector_name`         | VARCHAR(100)      | The name of the sector electricity was provided to (e.g., `Residential`, `Industrial`).    |
+| `price`               | FLOAT             | The price of electricity in cents per kilowatt-hour (e.g., `12.34`).                       |
+| `revenue`             | FLOAT             | The revenue generated from sales in millions of dollars (e.g., `123.45`).                  |
+| `sales`               | FLOAT             | The sales of electricity in million kilowatt-hours (e.g., `456.78`).                       |
+
+*Dataset Name: U.S. Electricity Prices*
+*Source: [Kaggle](https://www.kaggle.com/datasets/alistairking/electricity-prices)*  
+*Description: This dataset includes information on electricity prices, revenues, and sales across different sectors (e.g., Residential, Industrial) and regions. It provides insights into electricity consumption patterns, pricing trends, and revenue generation over time.*  
