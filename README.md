@@ -52,8 +52,7 @@
 
 | **Column Name**       | **Data Type**      | **Description**                                                                              |
 |------------------------|--------------------|---------------------------------------------------------------------------------------------|
-| `year`                | INTEGER           | The year for the data entry (e.g., `2023`).                                                |
-| `month`               | VARCHAR(20)       | The month for the data entry (e.g., `January`, `February`).                                |
+| `year`                | INTEGER           | The year for the data entry (e.g., `2023`).                                                |                         |
 | `state_description`   | VARCHAR(100)      | The name of the state or region (e.g., `California`, `Texas`).                             |
 | `sector_name`         | VARCHAR(100)      | The name of the sector electricity was provided to (e.g., `Residential`, `Industrial`).    |
 | `price`               | FLOAT             | The price of electricity in cents per kilowatt-hour (e.g., `12.34`).                       |
