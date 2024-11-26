@@ -4,8 +4,6 @@
 
 ### Electric Vehicle Charging Patterns
 
-### EV Charging Data Table Schema
-
 | **Column Name**             | **Data Type**      | **Description**                                                                                  |
 |-----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
 | `user_id`                   | VARCHAR(50)       | Unique identifier for each user (e.g., `user_1`).                                               |
