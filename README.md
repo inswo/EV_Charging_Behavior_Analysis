@@ -28,7 +28,7 @@
 | `user_type`                 | VARCHAR(50)       | Classification of user based on driving habits (e.g., `Commuter`).                              |
 
 *Dataset Name: EV Charging Patterns*  
-*Source: [Kaggle](https://www.kaggle.com/code/jaishumeda/ev-charging-patterns/)*  
+*Source: [EV Charging Patterns](https://www.kaggle.com/code/jaishumeda/ev-charging-patterns/)*  
 *Description: This dataset provides charging session details, including energy consumed, charging duration, vehicle details, and user classifications. It enables insights into electric vehicle (EV) charging behavior and usage patterns.*
 
 ### Demographic and Socioeconomic Data Table
@@ -61,5 +61,5 @@
 | `sales`               | FLOAT             | The sales of electricity in million kilowatt-hours (e.g., `456.78`).                       |
 
 *Dataset Name: U.S. Electricity Prices*
-*Source: [Kaggle](https://www.kaggle.com/datasets/alistairking/electricity-prices)*  
+*Source: [U.S. Electricity Prices](https://www.kaggle.com/datasets/alistairking/electricity-prices)*  
 *Description: This dataset includes information on electricity prices, revenues, and sales across different sectors (e.g., Residential, Industrial) and regions. It provides insights into electricity consumption patterns, pricing trends, and revenue generation over time.*  
