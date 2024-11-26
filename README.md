@@ -27,6 +27,10 @@
 | `charger_type`              | VARCHAR(50)       | Type of charger used (e.g., `DC Fast Charger`).                                                 |
 | `user_type`                 | VARCHAR(50)       | Classification of user based on driving habits (e.g., `Commuter`).                              |
 
+*Dataset Name: EV Charging Patterns*  
+*Source: [Kaggle](https://www.kaggle.com/code/jaishumeda/ev-charging-patterns/)*  
+*Description: This dataset provides charging session details, including energy consumed, charging duration, vehicle details, and user classifications. It enables insights into electric vehicle (EV) charging behavior and usage patterns.*
+
 ### Demographic and Socioeconomic Data Table
 
 | Column Name            | Data Type    | Description                                                                                     |
