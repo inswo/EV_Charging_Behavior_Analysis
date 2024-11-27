@@ -22,6 +22,8 @@ Insights and recommendations are provided on the following key areas:
 ## ⚠️ **Disclaimer**  
 > This analysis focuses on **Chicago**, **Houston**, **Los Angeles**, **New York**, and **San Francisco**, using publicly available datasets.
 
+## Dataset Structure
+
 ## Schema
 
 ### Electric Vehicle Charging Patterns
@@ -63,8 +65,8 @@ Insights and recommendations are provided on the following key areas:
 | `vehicle_ownership_rate`| FLOAT      | Percentage of households in the region that own at least one vehicle.                          |
 | `electric_vehicle_rate`| FLOAT       | Percentage of vehicles in the region that are electric.                                        |
 | `commuter_percentage`  | FLOAT       | Percentage of the population identified as commuters (traveling daily for work).               |
-| `age_distribution`     | JSON        | JSON object summarizing the population age distribution (e.g., `{ "0-18": 20%, "19-65": 70% }`).|
-| `education_level`      | JSON        | JSON object summarizing the education levels (e.g., `{ "High School": 40%, "College": 50% }`). |
+| `age_distribution`     | Float       | Average of the population age distribution.|
+| `education_level`      | JSON        | Most common education levels. |
 | `accessibility_index`  | FLOAT       | A score indicating infrastructure accessibility for underserved populations (1–10 scale).       |
 | `region_type`          | STRING | Type of area (e.g., Urban, Suburban, Rural).                                                   |
 
