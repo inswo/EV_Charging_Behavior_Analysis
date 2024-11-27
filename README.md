@@ -24,7 +24,7 @@ Insights and recommendations are provided on the following key areas:
 
 ## Dataset Structure
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/KnBLFPFY2aZWe7HhGU18xk"></iframe>
+![Dataset Structure](assets/dataset_structure.png)
 
 ## Schema
 
