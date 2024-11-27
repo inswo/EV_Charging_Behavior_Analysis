@@ -2,9 +2,11 @@
 
 ## Project Background
 
-L'adoption rapide des véhicules électriques dans le monde entier est en train de remodeler les secteurs de l'automobile et de l'énergie. Alors que les gouvernements prônent un transport plus durable et que les particuliers adoptent les VE pour réduire leur empreinte carbone, la demande d'infrastructures de recharge efficaces et abordables pour les VE ne cesse de croître. 
+The rapid adoption of electric vehicles (EVs) worldwide is reshaping the automotive and energy industries. 
 
-Pour répondre à cette demande, il est nécessaire de bien comprendre les comportements en matière de recharge, les structures de tarification de l'électricité et les caractéristiques démographiques régionales.
+As governments push for more sustainable transportation and individuals switch to EVs to reduce carbon footprints, the demand for efficient and affordable EV charging infrastructure continues to grow. 
+
+However, meeting this demand requires a deep understanding of charging behaviors, electricity pricing structures, and regional demographics.
 
 Insights and recommendations are provided on the following key areas:
 
