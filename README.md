@@ -26,6 +26,52 @@ Insights and recommendations are provided on the following key areas:
 
 ![Dataset Structure](assets/dataset_structure.png)
 
+## Insights Summary
+
+In order to evaluate performance in this case study, we focused on the following key metrics:
+
+1. Energy Consumed per Session (kWh):
+- Measures the total energy consumed during a charging session.
+- Purpose: Helps evaluate charging patterns and infrastructure demand.
+
+2. Charging Session Duration (Hours):
+- Tracks the time spent at a charging station for a single session.
+- Purpose: Assesses station efficiency and user convenience.
+
+3. Revenue per Charging Station (USD):
+- Calculates the revenue generated per station based on energy usage and pricing.
+- Formula: Energy Consumed (kWh) * Price (USD/kWh)
+- Purpose: Determines the profitability of charging infrastructure.
+
+4. Peak Usage Hours:
+- Identifies the hours during the day with the highest charging activity.
+- Purpose: Guides scheduling for maintenance and expansion.
+
+5. Electric Vehicle Penetration Rate:
+- Measures the percentage of electric vehicles in a region compared to total vehicles.
+- Purpose: Highlights regions with high adoption rates for targeted infrastructure investments.
+
+6. Charging Station Utilization Rate:
+- Tracks the percentage of time a station is actively used compared to its availability.
+- Formula: (Active Charging Time / Total Available Time) * 100
+- Purpose: Indicates whether stations are over- or under-utilized.
+
+7. Electricity Cost per kWh:
+- Evaluates the average price users pay for charging electricity.
+- Purpose: Assesses the impact of electricity pricing on user behavior and revenue.
+
+8. Distance Traveled Since Last Charge (km):
+- Tracks how far users travel before needing to recharge.
+- Purpose: Provides insights into user driving habits and the sufficiency of battery capacities.
+
+9. Age Group Utilization Breakdown (%):
+- Analyzes which age groups (0-18, 19-65, 65+) most frequently use charging stations.
+- Purpose: Identifies target demographics for EV adoption campaigns.
+
+10. Charging Session Revenue per User Type (USD):
+- Compares revenue contributions by user types (e.g., commuters vs. long-distance drivers).
+- Purpose: Tailors infrastructure and pricing strategies to different user segments.
+
 ## Schema
 
 ### Electric Vehicle Charging Patterns
