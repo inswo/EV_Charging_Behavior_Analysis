@@ -1,5 +1,28 @@
 # EV Charging Behavior Analysis - Project Overview
 
+## Project Background
+
+L'adoption rapide des véhicules électriques dans le monde entier est en train de remodeler les secteurs de l'automobile et de l'énergie. Alors que les gouvernements prônent un transport plus durable et que les particuliers adoptent les VE pour réduire leur empreinte carbone, la demande d'infrastructures de recharge efficaces et abordables pour les VE ne cesse de croître. 
+
+Pour répondre à cette demande, il est nécessaire de bien comprendre les comportements en matière de recharge, les structures de tarification de l'électricité et les caractéristiques démographiques régionales.
+
+Insights and recommendations are provided on the following key areas:
+
+**1. Charging Behavior Analysis:**
+
+  - **Insight:** Identify peak charging hours, preferred charging locations, and user types (e.g., commuters, long-distance drivers).
+  - **Recommendation:** Implement dynamic pricing models to encourage off-peak charging and reduce grid stress.
+
+**2. Electricity Pricing Impact:**
+
+  - **Insight:** Correlate electricity costs with energy consumption patterns to understand price sensitivity.
+  - **Recommendation:** Develop time-of-use electricity pricing strategies to optimize grid utilization and increase charging affordability.
+
+**3. Demographic Influence on EV Adoption:**
+
+  - **Insight:** Higher-income regions and areas with better education levels show greater EV adoption and higher charging station usage.
+  - **Recommendation:** Prioritize charging station expansion in underserved regions to increase accessibility and promote equity.
+
 ## Schema
 
 ### Electric Vehicle Charging Patterns
