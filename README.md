@@ -1,4 +1,4 @@
-# EV_Charging_Behavior_Analysis
+# EV Charging Behavior Analysis - Project Overview
 
 ## Schema
 
