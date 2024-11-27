@@ -24,6 +24,8 @@ Insights and recommendations are provided on the following key areas:
 
 ## Dataset Structure
 
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/KnBLFPFY2aZWe7HhGU18xk"></iframe>
+
 ## Schema
 
 ### Electric Vehicle Charging Patterns
@@ -77,13 +79,13 @@ Insights and recommendations are provided on the following key areas:
 ### U.S. Electricity Prices
 
 | **Column Name**       | **Data Type**      | **Description**                                                                              |
-|------------------------|--------------------|---------------------------------------------------------------------------------------------|
-| `year`                | INTEGER           | The year for the data entry (e.g., `2023`).                                                |                         |
-| `state_description`   | STRING      | The name of the state or region (e.g., `California`, `Texas`).                             |
-| `sector_name`         | STRING      | The name of the sector electricity was provided to (e.g., `Residential`, `Industrial`).    |
-| `price`               | FLOAT             | The price of electricity in cents per kilowatt-hour (e.g., `12.34`).                       |
-| `revenue`             | FLOAT             | The revenue generated from sales in millions of dollars (e.g., `123.45`).                  |
-| `sales`               | FLOAT             | The sales of electricity in million kilowatt-hours (e.g., `456.78`).                       |
+|-----------------------|--------------------|----------------------------------------------------------------------------------------------|
+| `year`                | INTEGER            | The year for the data entry (e.g., `2023`).                                                |                         |
+| `state`               | STRING             | The name of the state or region (e.g., `California`, `Texas`).                             |
+| `sector_name`         | STRING             | The name of the sector electricity was provided to (e.g., `Residential`, `Industrial`).    |
+| `price`               | FLOAT              | The price of electricity in cents per kilowatt-hour (e.g., `12.34`).                       |
+| `revenue`             | FLOAT              | The revenue generated from sales in millions of dollars (e.g., `123.45`).                  |
+| `sales`               | FLOAT              | The sales of electricity in million kilowatt-hours (e.g., `456.78`).                       |
 
 *Dataset Name: U.S. Electricity Prices*
 *Source: [U.S. Electricity Prices](https://www.kaggle.com/datasets/alistairking/electricity-prices)*  
