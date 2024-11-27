@@ -71,7 +71,7 @@ Insights and recommendations are provided on the following key areas:
 | `education_level`          | STRING           | Most common education levels.                                                                      |
 | `accessibility_index`      | FLOAT            | A score indicating infrastructure accessibility for underserved populations (1–10 scale).          |
 | `region_type`              | STRING           | Type of area (e.g., Urban, Suburban, Rural).                                                       |
-                                                  |
+
 *Source: US Census Bureau, World Bank Open Data.*
 
 ### U.S. Electricity Prices
