@@ -20,9 +20,7 @@ Insights and recommendations are provided on the following key areas:
 **Insight:** Higher-income regions and areas with better education levels show greater EV adoption and higher charging station usage.
 
 ## ⚠️ **Disclaimer**  
-> This analysis focuses on **Chicago**, **Houston**, **Los Angeles**, **New York**, and **San Francisco**, using publicly available datasets.  
-> While providing diverse insights, the data may have limitations such as sampling biases or incomplete records.  
-> Recommendations are generalized and may not reflect specific local conditions. For precise decision-making, further localized studies are advised.
+> This analysis focuses on **Chicago**, **Houston**, **Los Angeles**, **New York**, and **San Francisco**, using publicly available datasets.
 
 ## Schema
 
