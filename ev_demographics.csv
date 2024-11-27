@@ -1,6 +1,0 @@
-﻿location,median_income,population_density,vehicle_ownership_rate,electric_vehicle_rate,commuter_percentage,age_distribution,education_level,region_type
-chicago,"$65,000","11,900",70%,10%,65%,"{""0-18"": 25%, ""19-65"": 65%, ""65+"": 10%}","{""High School"": 30%, ""College"": 50%}	",urban
-houston,"$52,000","3,600",95%,5%,70%,"{""0-18"": 30%, ""19-65"": 60%, ""65+"": 10%}	","{""High School"": 40%, ""College"": 35%}	",urban
-los angeles,"$62,000","8,500",80%,20%,68%,"{""0-18"": 20%, ""19-65"": 70%, ""65+"": 10%}	","{""High School"": 35%, ""College"": 45%}	",urban
-new york,"$64,000","2,800",45%,8%,60%,"{""0-18"": 22%, ""19-65"": 68%, ""65+"": 10%}	","{""High School"": 25%, ""College"": 55%}	",urban
-san francisco,"$112,000","18,800",70%,50%,65%,"{""0-18"": 20%, ""19-65"": 70%, ""65+"": 10%}	","{""High School"": 20%, ""College"": 60%}	",urban

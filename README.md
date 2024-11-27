@@ -57,19 +57,21 @@ Insights and recommendations are provided on the following key areas:
 
 ### Demographic and Socioeconomic Data Table
 
-| Column Name            | Data Type    | Description                                                                                     |
-|------------------------|--------------|-------------------------------------------------------------------------------------------------|
-| `location`             | STRING| Name of the city or locality.                                                                  |
-| `median_income`        | FLOAT       | Median household income in the region (in USD).                                                |
-| `population_density`   | FLOAT       | Number of people per square kilometer.                                                         |
-| `vehicle_ownership_rate`| FLOAT      | Percentage of households in the region that own at least one vehicle.                          |
-| `electric_vehicle_rate`| FLOAT       | Percentage of vehicles in the region that are electric.                                        |
-| `commuter_percentage`  | FLOAT       | Percentage of the population identified as commuters (traveling daily for work).               |
-| `age_distribution`     | Float       | Average of the population age distribution.|
-| `education_level`      | JSON        | Most common education levels. |
-| `accessibility_index`  | FLOAT       | A score indicating infrastructure accessibility for underserved populations (1–10 scale).       |
-| `region_type`          | STRING | Type of area (e.g., Urban, Suburban, Rural).                                                   |
-
+| **Column Name**            | **Data Type**    | **Description**                                                                                     |
+|----------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| `location`                 | STRING           | Name of the city or locality.                                                                      |
+| `median_income`            | FLOAT            | Median household income in the region (in USD).                                                    |
+| `population_density`       | FLOAT            | Number of people per square kilometer.                                                             |
+| `vehicle_ownership_rate`   | FLOAT            | Percentage of households in the region that own at least one vehicle.                              |
+| `electric_vehicle_rate`    | FLOAT            | Percentage of vehicles in the region that are electric.                                            |
+| `commuter_percentage`      | FLOAT            | Percentage of the population identified as commuters (traveling daily for work).                   |
+| `age_0_18`                 | FLOAT            | Percentage of the population aged 0–18 years.                                                     |
+| `age_19_65`                | FLOAT            | Percentage of the population aged 19–65 years.                                                    |
+| `age_65_plus`              | FLOAT            | Percentage of the population aged 65+ years.                                                      |
+| `education_level`          | STRING           | Most common education levels.                                                                      |
+| `accessibility_index`      | FLOAT            | A score indicating infrastructure accessibility for underserved populations (1–10 scale).          |
+| `region_type`              | STRING           | Type of area (e.g., Urban, Suburban, Rural).                                                       |
+                                                  |
 *Source: US Census Bureau, World Bank Open Data.*
 
 ### U.S. Electricity Prices

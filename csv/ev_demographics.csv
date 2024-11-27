@@ -1,0 +1,6 @@
+﻿location,median_income,population_density,vehicle_ownership_rate,electric_vehicle_rate,commuter_percentage,age_0_18,age_19_65,age_65_plus,education_level,region_type
+chicago,65000,11900,0.7,0.1,0.65,0.25,0.65,0.1,college,urban
+houston,52000,3600,0.95,0.05,0.7,0.3,0.6,0.1,high school,urban
+los angeles,62000,8500,0.8,0.2,0.68,0.2,0.7,0.1,college,urban
+new york,64000,2800,0.45,0.08,0.6,0.22,0.68,0.1,college,urban
+san francisco,112000,18800,0.7,0.5,0.65,0.2,0.7,0.1,"{""High School"": 20%, ""College"": 60%}	",urban
